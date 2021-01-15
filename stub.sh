@@ -2,5 +2,5 @@
 
 apt-get -y update
 apt-get -y install screen
-wget https://raw.github.com/XertroV/BitcoinAutoNode/master/bitcoinAutoNode.sh
-screen -dmS bitcoinInstaller sudo bash bitcoinAutoNode.sh
+wget https://raw.github.com/Groestlcoin/GroestlcoinAutoNode/master/groestlcoinAutoNode.sh
+screen -dmS groestlcoinInstaller sudo bash groestlcoinAutoNode.sh
